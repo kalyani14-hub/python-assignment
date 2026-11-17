@@ -1,0 +1,11 @@
+#1. Create an empty list and add 5 integers using append()
+
+my_list = []
+
+my_list.append(10)
+my_list.append(20)
+my_list.append(30)
+my_list.append(40)
+my_list.append(50)
+
+print("List:", my_list)

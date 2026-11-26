@@ -1,0 +1,19 @@
+COLLEGE ATTENDANCE TRACKER
+=================================================================
+Total Lectures: 2
+
+ATTENDANCE SHEET
+-----------------------------------------------------------------
+Roll No     Name                Present   Absent    Percentage  
+101         rahul               2         0         100.00%
+102         priya               2         0         100.00%
+103         raaj                1         1         50.00%
+104         rushi               2         0         100.00%
+105         kamakshi            1         1         50.00%
+
+DEFAULTER REPORT
+-----------------------------------------------------------------
+Minimum Required Attendance: 75%
+
+Roll No: 103, Name: raaj, Attendance: 50.00%
+Roll No: 105, Name: kamakshi, Attendance: 50.00%
